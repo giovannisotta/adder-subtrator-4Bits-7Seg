@@ -22,7 +22,7 @@ PLL_*/
 *.qws
 *.done
 *.cbx.rds
-*.cof
+#*.cof
 
 # Arquivos temporários e de cache
 *.bak
@@ -41,7 +41,7 @@ PLL_*/
 # Arquivos de simulação (ModelSim/QuestaSim, se usar)
 *.vwf.bak
 transcript
-wave.do
+#wave.do
 vsim.wlf
 
 # Windows
